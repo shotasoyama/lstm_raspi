@@ -1,7 +1,7 @@
 # lstm_raspi
 
 Raspberry Pi 3B+用パッケージ
-ノートパソコン側に[ノート用パッケージ](https://github.com/shotasoyama/lstm_note.git)も入れてください。
+ノートパソコン側に[パソコン用パッケージ](https://github.com/shotasoyama/lstm_note.git)も入れてください。
 
 Raspberry Pi 3,3B  モデルは[こちら](https://github.com/shotasoyama/lstm)です。
 
