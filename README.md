@@ -24,7 +24,7 @@ raspi側
  roslaunch lstm_raspi lstm.launch
 ```
 
-ノートパソコン側
+パソコン側
 ```
  rosrun lstm_note repy_motor.py 
 ```
