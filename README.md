@@ -26,7 +26,7 @@ raspi側
 
 パソコン側
 ```
- rosrun lstm_note repy_motor.py 
+ rosrun lstm_note replay_motor.py 
 ```
 
 ## 操作方法
