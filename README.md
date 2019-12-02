@@ -3,7 +3,7 @@
 Raspberry Pi 3B+用パッケージ
 ノートパソコン側に[ノート用パッケージ](https://github.com/shotasoyama/lstm_note.git)も入れてください。
 
-Raspberry Pi 3,3B  モデルのかたは[こちら](https://github.com/shotasoyama/lstm)です。
+Raspberry Pi 3,3B  モデルは[こちら](https://github.com/shotasoyama/lstm)です。
 
 
 ## 動作環境
@@ -15,3 +15,9 @@ Raspberry Pi 3,3B  モデルのかたは[こちら](https://github.com/shotasoya
 * ROS
   * ROS Melodic
 
+## Start
+
+raspi側で
+```
+ roslaunch lstm_raspi lstm.launch
+```
